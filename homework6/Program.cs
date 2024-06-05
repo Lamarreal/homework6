@@ -1,8 +1,6 @@
 ﻿
 
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-void Proggram()
+static void Proggram()
 {
 	try
 	{
